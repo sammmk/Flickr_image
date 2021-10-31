@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "6EB0F800-EB87-43F1-A836-CDC12285A484"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C4B1CA03-28DF-470A-8E1A-7CFCF732392A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Flickr_image/ImageDetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "ImageDetailViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "C4B1CA03-28DF-470A-8E1A-7CFCF732392A - d016c612402a70cd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Flickr_image.ImageDetailViewController.flickr.getter : Swift.Optional&lt;Flickr_image.Flickr&gt;"
+                  moduleName = "Flickr_image"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohankurera/Documents/myProjects/Flickr_image/Flickr_image/ImageDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "124">
+               </Location>
+               <Location
+                  uuid = "C4B1CA03-28DF-470A-8E1A-7CFCF732392A - 4d46495c999c74f9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Flickr_image.ImageDetailViewController.flickr.setter : Swift.Optional&lt;Flickr_image.Flickr&gt;"
+                  moduleName = "Flickr_image"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohankurera/Documents/myProjects/Flickr_image/Flickr_image/ImageDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "188">
+               </Location>
+               <Location
+                  uuid = "C4B1CA03-28DF-470A-8E1A-7CFCF732392A - e0f3320c32cce53b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Flickr_image.ImageDetailViewController.flickr.modify : Swift.Optional&lt;Flickr_image.Flickr&gt;"
+                  moduleName = "Flickr_image"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohankurera/Documents/myProjects/Flickr_image/Flickr_image/ImageDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "C4B1CA03-28DF-470A-8E1A-7CFCF732392A - 835d2ba092c2d09e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Flickr_image.ImageDetailViewController.flickr.modify : Swift.Optional&lt;Flickr_image.Flickr&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Flickr_image"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohankurera/Documents/myProjects/Flickr_image/Flickr_image/ImageDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "C4B1CA03-28DF-470A-8E1A-7CFCF732392A - 613c2e2531fb0c6d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Flickr_image.ImageDetailViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Flickr_image.ImageDetailViewController"
+                  moduleName = "Flickr_image"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohankurera/Documents/myProjects/Flickr_image/Flickr_image/ImageDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "C4B1CA03-28DF-470A-8E1A-7CFCF732392A - 6a81d2546af68b09"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Flickr_image.ImageDetailViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Flickr_image.ImageDetailViewController&gt;"
+                  moduleName = "Flickr_image"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohankurera/Documents/myProjects/Flickr_image/Flickr_image/ImageDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "80">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "43497226-EDDE-4380-A9A0-0D12ACBF82D6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Flickr_image/ImageCollectionViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "136"
+            endingLineNumber = "136"
+            landmarkName = "parser(_:didEndElement:namespaceURI:qualifiedName:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B160E4F6-F932-4178-A7D4-8330CB89D76E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Flickr_image/ImageCollectionViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "103"
+            endingLineNumber = "103"
+            landmarkName = "parser(_:didStartElement:namespaceURI:qualifiedName:attributes:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C1B1D673-A698-4EF6-BE31-4B55960882F5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Flickr_image/ImageDetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
